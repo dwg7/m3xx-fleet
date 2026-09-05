@@ -1,0 +1,127 @@
+{
+  "generated_at": "2026-09-05T12:33:07Z",
+  "freshness_note": null,
+  "summary": {
+    "total": 15,
+    "healthy": 13,
+    "needs_physical_check": 2
+  },
+  "hosts": [
+    {
+      "id": "m321",
+      "role": "踏み台(blueorigin)",
+      "status": "healthy",
+      "os_version": "Debian GNU/Linux 13 (trixie)",
+      "kernel": "6.18.39+rpt-rpi-v8",
+      "last_seen": "2026-09-05T12:33:07Z"
+    },
+    {
+      "id": "m323",
+      "role": "副回線(roscosmos)・講師専用",
+      "status": "healthy",
+      "os_version": "Debian GNU/Linux 13 (trixie)",
+      "kernel": "6.18.39+rpt-rpi-v8",
+      "last_seen": "2026-09-05T12:33:07Z"
+    },
+    {
+      "id": "m326",
+      "role": "研修機",
+      "status": "healthy",
+      "os_version": "Debian GNU/Linux 13 (trixie)",
+      "kernel": "6.18.39+rpt-rpi-v8",
+      "last_seen": "2026-09-05T12:33:07Z"
+    },
+    {
+      "id": "m327",
+      "role": "研修機",
+      "status": "healthy",
+      "os_version": "Debian GNU/Linux 13 (trixie)",
+      "kernel": "6.18.39+rpt-rpi-v8",
+      "last_seen": "2026-09-05T12:33:07Z"
+    },
+    {
+      "id": "m328",
+      "role": "研修機",
+      "status": "healthy",
+      "os_version": "Debian GNU/Linux 13 (trixie)",
+      "kernel": "6.18.39+rpt-rpi-v8",
+      "last_seen": "2026-09-05T12:33:07Z"
+    },
+    {
+      "id": "m332",
+      "role": "研修機",
+      "status": "healthy",
+      "os_version": "Debian GNU/Linux 13 (trixie)",
+      "kernel": "6.18.39+rpt-rpi-v8",
+      "last_seen": "2026-09-05T12:33:07Z"
+    },
+    {
+      "id": "m334",
+      "role": "研修機",
+      "status": "healthy",
+      "os_version": "Debian GNU/Linux 13 (trixie)",
+      "kernel": "6.18.39+rpt-rpi-v8",
+      "last_seen": "2026-09-05T12:33:07Z"
+    },
+    {
+      "id": "m336",
+      "role": "研修機",
+      "status": "healthy",
+      "os_version": "Debian GNU/Linux 13 (trixie)",
+      "kernel": "6.18.39+rpt-rpi-v8",
+      "last_seen": "2026-09-05T12:33:07Z"
+    },
+    {
+      "id": "m347",
+      "role": "研修機",
+      "status": "healthy",
+      "os_version": "Debian GNU/Linux 13 (trixie)",
+      "kernel": "6.18.39+rpt-rpi-v8",
+      "last_seen": "2026-09-05T12:33:07Z"
+    },
+    {
+      "id": "m348",
+      "role": "研修機",
+      "status": "healthy",
+      "os_version": "Debian GNU/Linux 13 (trixie)",
+      "kernel": "6.18.39+rpt-rpi-v8",
+      "last_seen": "2026-09-05T12:33:07Z"
+    },
+    {
+      "id": "m349",
+      "role": "研修機",
+      "status": "healthy",
+      "os_version": "Debian GNU/Linux 13 (trixie)",
+      "kernel": "6.18.39+rpt-rpi-v8",
+      "last_seen": "2026-09-05T12:33:07Z"
+    },
+    {
+      "id": "m353",
+      "role": "研修機",
+      "status": "healthy",
+      "os_version": "Debian GNU/Linux 13 (trixie)",
+      "kernel": "6.18.39+rpt-rpi-v8",
+      "last_seen": "2026-09-05T12:33:07Z"
+    },
+    {
+      "id": "m355",
+      "role": "研修機",
+      "status": "healthy",
+      "os_version": "Debian GNU/Linux 13 (trixie)",
+      "kernel": "6.18.39+rpt-rpi-v8",
+      "last_seen": "2026-09-05T12:33:07Z"
+    },
+    {
+      "id": "m331",
+      "status": "needs_physical_check",
+      "note": "LAN未参加、現地確認待ち",
+      "last_seen": null
+    },
+    {
+      "id": "m342",
+      "status": "needs_physical_check",
+      "note": "LAN未参加、現地確認待ち",
+      "last_seen": null
+    }
+  ]
+}
