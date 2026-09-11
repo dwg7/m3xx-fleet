@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:37:01Z",
+  "generated_at": "2026-09-11T00:18:00Z",
   "freshness_note": null,
   "summary": {
     "total": 15,
@@ -13,14 +13,14 @@
       "status": "healthy",
       "os_version": "Debian GNU/Linux 13 (trixie)",
       "kernel": "6.18.39+rpt-rpi-v8",
-      "uptime": "up 4 days, 18 hours, 23 minutes",
+      "uptime": "up 4 days, 23 hours, 5 minutes",
       "load_average": [
+        0.1,
         0.03,
-        0.01,
-        0.0
+        0.01
       ],
-      "temperature_c": 78.4,
-      "last_seen": "2026-09-10T19:37:01Z"
+      "temperature_c": 77.4,
+      "last_seen": "2026-09-11T00:18:00Z"
     },
     {
       "id": "m323",
@@ -28,14 +28,14 @@
       "status": "healthy",
       "os_version": "Debian GNU/Linux 13 (trixie)",
       "kernel": "6.18.39+rpt-rpi-v8",
-      "uptime": "up 4 days, 20 hours, 5 minutes",
+      "uptime": "up 5 days, 46 minutes",
       "load_average": [
         0.0,
         0.0,
         0.0
       ],
-      "temperature_c": 82.3,
-      "last_seen": "2026-09-10T19:37:01Z"
+      "temperature_c": 80.3,
+      "last_seen": "2026-09-11T00:18:00Z"
     },
     {
       "id": "m326",
@@ -43,14 +43,14 @@
       "status": "healthy",
       "os_version": "Debian GNU/Linux 13 (trixie)",
       "kernel": "6.18.39+rpt-rpi-v8",
-      "uptime": "up 4 days, 19 hours, 3 minutes",
+      "uptime": "up 4 days, 23 hours, 44 minutes",
       "load_average": [
         0.0,
         0.0,
         0.0
       ],
-      "temperature_c": 64.7,
-      "last_seen": "2026-09-10T19:37:01Z"
+      "temperature_c": 65.7,
+      "last_seen": "2026-09-11T00:18:00Z"
     },
     {
       "id": "m327",
@@ -58,14 +58,14 @@
       "status": "healthy",
       "os_version": "Debian GNU/Linux 13 (trixie)",
       "kernel": "6.18.39+rpt-rpi-v8",
-      "uptime": "up 4 days, 18 hours, 59 minutes",
+      "uptime": "up 4 days, 23 hours, 40 minutes",
       "load_average": [
-        0.0,
-        0.0,
-        0.0
+        0.08,
+        0.02,
+        0.01
       ],
-      "temperature_c": 68.1,
-      "last_seen": "2026-09-10T19:37:01Z"
+      "temperature_c": 69.1,
+      "last_seen": "2026-09-11T00:18:00Z"
     },
     {
       "id": "m328",
@@ -73,14 +73,14 @@
       "status": "healthy",
       "os_version": "Debian GNU/Linux 13 (trixie)",
       "kernel": "6.18.39+rpt-rpi-v8",
-      "uptime": "up 4 days, 18 hours, 56 minutes",
+      "uptime": "up 4 days, 23 hours, 37 minutes",
       "load_average": [
         0.0,
         0.0,
         0.0
       ],
-      "temperature_c": 70.1,
-      "last_seen": "2026-09-10T19:37:01Z"
+      "temperature_c": 72.5,
+      "last_seen": "2026-09-11T00:18:00Z"
     },
     {
       "id": "m332",
@@ -88,14 +88,14 @@
       "status": "healthy",
       "os_version": "Debian GNU/Linux 13 (trixie)",
       "kernel": "6.18.39+rpt-rpi-v8",
-      "uptime": "up 4 days, 18 hours, 53 minutes",
+      "uptime": "up 4 days, 23 hours, 34 minutes",
       "load_average": [
-        0.0,
-        0.0,
-        0.0
+        0.56,
+        0.12,
+        0.04
       ],
-      "temperature_c": 60.8,
-      "last_seen": "2026-09-10T19:37:01Z"
+      "temperature_c": 60.3,
+      "last_seen": "2026-09-11T00:18:00Z"
     },
     {
       "id": "m334",
@@ -103,14 +103,14 @@
       "status": "healthy",
       "os_version": "Debian GNU/Linux 13 (trixie)",
       "kernel": "6.18.39+rpt-rpi-v8",
-      "uptime": "up 4 days, 18 hours, 50 minutes",
+      "uptime": "up 4 days, 23 hours, 31 minutes",
       "load_average": [
         0.0,
         0.0,
         0.0
       ],
-      "temperature_c": 72.0,
-      "last_seen": "2026-09-10T19:37:01Z"
+      "temperature_c": 72.5,
+      "last_seen": "2026-09-11T00:18:00Z"
     },
     {
       "id": "m336",
@@ -118,14 +118,14 @@
       "status": "healthy",
       "os_version": "Debian GNU/Linux 13 (trixie)",
       "kernel": "6.18.39+rpt-rpi-v8",
-      "uptime": "up 4 days, 18 hours, 47 minutes",
+      "uptime": "up 4 days, 23 hours, 28 minutes",
       "load_average": [
         0.0,
         0.0,
         0.0
       ],
-      "temperature_c": 68.1,
-      "last_seen": "2026-09-10T19:37:01Z"
+      "temperature_c": 67.6,
+      "last_seen": "2026-09-11T00:18:00Z"
     },
     {
       "id": "m347",
@@ -133,14 +133,14 @@
       "status": "healthy",
       "os_version": "Debian GNU/Linux 13 (trixie)",
       "kernel": "6.18.39+rpt-rpi-v8",
-      "uptime": "up 4 days, 18 hours, 44 minutes",
+      "uptime": "up 4 days, 23 hours, 25 minutes",
       "load_average": [
-        0.0,
-        0.0,
-        0.0
+        0.08,
+        0.02,
+        0.01
       ],
-      "temperature_c": 64.7,
-      "last_seen": "2026-09-10T19:37:01Z"
+      "temperature_c": 63.3,
+      "last_seen": "2026-09-11T00:18:00Z"
     },
     {
       "id": "m348",
@@ -148,14 +148,14 @@
       "status": "healthy",
       "os_version": "Debian GNU/Linux 13 (trixie)",
       "kernel": "6.18.39+rpt-rpi-v8",
-      "uptime": "up 4 days, 18 hours, 41 minutes",
+      "uptime": "up 4 days, 23 hours, 22 minutes",
       "load_average": [
         0.0,
         0.0,
         0.0
       ],
-      "temperature_c": 61.3,
-      "last_seen": "2026-09-10T19:37:01Z"
+      "temperature_c": 61.8,
+      "last_seen": "2026-09-11T00:18:00Z"
     },
     {
       "id": "m349",
@@ -163,14 +163,14 @@
       "status": "healthy",
       "os_version": "Debian GNU/Linux 13 (trixie)",
       "kernel": "6.18.39+rpt-rpi-v8",
-      "uptime": "up 4 days, 18 hours, 35 minutes",
+      "uptime": "up 4 days, 23 hours, 17 minutes",
       "load_average": [
         0.0,
         0.0,
         0.0
       ],
-      "temperature_c": 68.6,
-      "last_seen": "2026-09-10T19:37:01Z"
+      "temperature_c": 69.1,
+      "last_seen": "2026-09-11T00:18:00Z"
     },
     {
       "id": "m353",
@@ -178,14 +178,14 @@
       "status": "healthy",
       "os_version": "Debian GNU/Linux 13 (trixie)",
       "kernel": "6.18.39+rpt-rpi-v8",
-      "uptime": "up 4 days, 18 hours, 32 minutes",
+      "uptime": "up 4 days, 23 hours, 13 minutes",
       "load_average": [
-        0.06,
-        0.02,
+        0.0,
+        0.0,
         0.0
       ],
-      "temperature_c": 66.2,
-      "last_seen": "2026-09-10T19:37:01Z"
+      "temperature_c": 65.2,
+      "last_seen": "2026-09-11T00:18:00Z"
     },
     {
       "id": "m355",
@@ -193,14 +193,14 @@
       "status": "healthy",
       "os_version": "Debian GNU/Linux 13 (trixie)",
       "kernel": "6.18.39+rpt-rpi-v8",
-      "uptime": "up 4 days, 18 hours, 29 minutes",
+      "uptime": "up 4 days, 23 hours, 10 minutes",
       "load_average": [
         0.0,
         0.0,
         0.0
       ],
       "temperature_c": 60.8,
-      "last_seen": "2026-09-10T19:37:01Z"
+      "last_seen": "2026-09-11T00:18:00Z"
     },
     {
       "id": "m331",
